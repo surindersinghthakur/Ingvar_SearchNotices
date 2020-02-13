@@ -1,0 +1,9 @@
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\bin\Debug\SearchNotices.exe.config
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\bin\Debug\SearchNotices.exe
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\bin\Debug\SearchNotices.pdb
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.csprojAssemblyReference.cache
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.Form1.resources
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.Properties.Resources.resources
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.csproj.GenerateResource.cache
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.exe
+C:\D\Projects1\Ingvar\SearchNotices\SearchNotices\obj\Debug\SearchNotices.pdb
